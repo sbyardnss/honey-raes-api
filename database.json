@@ -94,14 +94,14 @@
       "userId": 1,
       "description": "Saepe ex sapiente deserunt et voluptas fugiat vero quasi. Ipsam est non ipsa. Occaecati rerum ipsa consequuntur. Ratione commodi unde sint non rerum. Sit quia et aut sunt.",
       "emergency": false,
-      "dateCompleted": "2023-02-24T21:43:25.468Z",
+      "dateCompleted": "",
       "id": 1
     },
     {
       "userId": 2,
       "description": "Vero est adipisci sed natus quasi consectetur occaecati. Modi maxime sunt officia cumque. Vel at culpa. Sint accusamus deserunt dolorem qui.",
       "emergency": true,
-      "dateCompleted": "2023-02-24T22:01:59.112Z",
+      "dateCompleted": "",
       "id": 2
     },
     {
@@ -115,7 +115,7 @@
       "userId": 4,
       "description": "gabbagool A deleniti est sed vel. Dolores aliquid enim vero. Quia eligendi vel voluptas. Nihil nihil quasi ullam officia doloremque amet non. Officia atque quae.",
       "emergency": false,
-      "dateCompleted": "2023-02-24T21:38:29.395Z",
+      "dateCompleted": "",
       "id": 4
     },
     {
