@@ -101,21 +101,21 @@
       "userId": 2,
       "description": "Vero est adipisci sed natus quasi consectetur occaecati. Modi maxime sunt officia cumque. Vel at culpa. Sint accusamus deserunt dolorem qui.",
       "emergency": true,
-      "dateCompleted": "",
+      "dateCompleted": "2023-02-27T16:39:46.484Z",
       "id": 2
     },
     {
       "userId": 3,
       "description": "help me out. Sunt pariatur et quidem hic voluptatem. Neque aliquam voluptas eos incidunt repellendus. Vero expedita non sit quaerat sit et eum. Quasi dolor voluptatem illum eum qui est expedita sequi accusamus.",
       "emergency": true,
-      "dateCompleted": "",
+      "dateCompleted": "2023-02-27T16:40:36.422Z",
       "id": 3
     },
     {
       "userId": 4,
       "description": "gabbagool A deleniti est sed vel. Dolores aliquid enim vero. Quia eligendi vel voluptas. Nihil nihil quasi ullam officia doloremque amet non. Officia atque quae.",
       "emergency": false,
-      "dateCompleted": "",
+      "dateCompleted": "2023-02-27T16:48:13.809Z",
       "id": 4
     },
     {
@@ -158,6 +158,11 @@
       "employeeId": 1,
       "serviceTicketId": 2,
       "id": 5
+    },
+    {
+      "employeeId": 1,
+      "serviceTicketId": 6,
+      "id": 6
     }
   ]
 }
